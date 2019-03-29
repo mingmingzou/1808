@@ -5,7 +5,9 @@ import com.qianfeng.fxmall.goods.dao.GoodsDAO;
 import com.qianfeng.fxmall.goods.dao.Impl.GoodsDAOImpl;
 
 import java.util.List;
-
+/*
+* 第二次提交
+* */
 public class Test {
 
     public static void  main(String[] args){
